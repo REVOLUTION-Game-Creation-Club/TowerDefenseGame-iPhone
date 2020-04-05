@@ -6,4 +6,4 @@
 
 프로그래밍:신동인
 
-<img src="https://github.com/sdi1982/TowerDefenseGame-iPhone/blob/master/tower_depence.png">
+<img src="https://github.com/sdi1982/TowerDefenseGame-iPhone/blob/master/tower_defence.png">
